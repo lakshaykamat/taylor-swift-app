@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Taylor Swift",
+    "releaseDate": [
+      "Oct",
+      24,
+      2006
+    ],
+    "albumCover": "https://upload.wikimedia.org/wikipedia/en/1/1f/Taylor_Swift_-_Taylor_Swift.png",
+    "artist": "Taylor Swift"
+  },
+  {
+    "title": "Fearless",
+    "releaseDate": [
+      "Nov",
+      11,
+      2008
+    ],
+    "albumCover": "https://upload.wikimedia.org/wikipedia/en/5/5b/Fearless_%28Taylor%27s_Version%29_%282021_album_cover%29_by_Taylor_Swift.png",
+    "artist": "Taylor Swift"
+  },
+  {
+    "title": "Speak Now",
+    "releaseDate": [
+      "Oct",
+      25,
+      2010
+    ],
+    "albumCover": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Taylor_Swift_-_Speak_Now_%28Taylor%27s_Version%29.png/220px-Taylor_Swift_-_Speak_Now_%28Taylor%27s_Version%29.png",
+    "artist": "Taylor Swift"
+  },
+  {
+    "title": "Red",
+    "releaseDate": [
+      "Oct",
+      22,
+      2012
+    ],
+    "albumCover": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Taylor_Swift_-_Red.png/220px-Taylor_Swift_-_Red.png",
+    "artist": "Taylor Swift"
+  },
+  {
+    "title": "1989",
+    "releaseDate": [
+      "Oct",
+      27,
+      2014
+    ],
+    "albumCover": "https://upload.wikimedia.org/wikipedia/en/d/d5/Taylor_Swift_-_1989_%28Taylor%27s_Version%29.png",
+    "artist": "Taylor Swift"
+  },
+  {
+    "title": "Reputation",
+    "releaseDate": [
+      "Nov",
+      10,
+      2017
+    ],
+    "albumCover": "https://upload.wikimedia.org/wikipedia/en/f/f2/Taylor_Swift_-_Reputation.png",
+    "artist": "Taylor Swift"
+  },
+  {
+    "title": "Lover",
+    "releaseDate": [
+      "Aug",
+      23,
+      2019
+    ],
+    "albumCover": "https://upload.wikimedia.org/wikipedia/en/c/cd/Taylor_Swift_-_Lover.png",
+    "artist": "Taylor Swift"
+  },
+  {
+    "title": "Folklore",
+    "releaseDate": [
+      "Jul",
+      24,
+      2020
+    ],
+    "albumCover": "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png",
+    "artist": "Taylor Swift"
+  },
+  {
+    "title": "evermore",
+    "releaseDate": [
+      "Dec",
+      11,
+      2020
+    ],
+    "albumCover": "https://upload.wikimedia.org/wikipedia/en/0/0a/Taylor_Swift_-_Evermore.png",
+    "artist": "Taylor Swift"
+  },
+  {
+    "title": "Midnights",
+    "releaseDate": [
+      "Oct",
+      21,
+      2022
+    ],
+    "albumCover": "https://upload.wikimedia.org/wikipedia/en/9/9f/Midnights_-_Taylor_Swift.png",
+    "artist": "Taylor Swift"
+  }
+]
